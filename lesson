@@ -1,0 +1,95 @@
+# print("2 * 2 = ", 2 * 2)
+# print("2 * 3 = ", 2 * 3)
+# print("2 * 4 = ", 2 * 4)
+
+
+# name = input("what is your name?")
+# age = input("how ald are you")
+# movie = input("what's your favorite movie?")
+# song = input("what is your favorite song")
+#
+# print("Your name is" , name)
+# print( "age is " , age)
+# print(" his favorite movie " , movie)
+# print(" his favorite song " , song)
+#
+# print( "his name" , name, "age" , age, "favorite movie" , movie , "favorite song" , song)
+#
+#
+
+# name = "tom"
+# print(name)
+# name = "sam"
+
+# name = "tom"
+# Name = "sam"
+# NAME = "jack"
+# print(Name)
+# print(name)
+# print(NAME)
+
+
+# name = "tom"
+# surName = "jack"
+# FullName = name + " " + surName
+# print( FullName)
+
+# r = 10
+# p = 3.14
+# a = 2 * p * r * r
+# print(a)
+
+# num1 = 10
+# num2 = 12
+#
+# summa = num1 / num2
+# plus = num1 + num2
+# umno = num1 * num2
+# minus = num1 - num2
+# print(summa)
+# print(plus)
+# print(umno)
+# print(minus)
+# num 1 num2 num 3 брать с инпута
+
+# c = int (input("enter"))
+# f = c * 5 + 35
+# print(f)
+
+# num1 = 5
+# print(num1)
+# num2 = float(num1)
+# print(num2)
+
+
+
+
+
+
+
+
+
+
+
+# age = input("how old are you")
+# name = input("what is your name?")
+#
+# print("age is ", age)
+# print("Your name is" , name)
+
+
+
+
+byPhone = input("Which model are you interested in? ")
+print(f"You are interested in buying the {byPhone}.")
+price = 800
+print(f"The price of the {byPhone} is ${price}.")
+myBudget = int(input("What is your budget? $"))
+print(f"Your budget is ${myBudget}.")
+remaining_budget = myBudget - price
+print(f"You bought the {byPhone} for ${price}.")
+print(f"You have ${remaining_budget} remaining.")
+cost = input("you have 1200$ left, do you want to buy something else?")
+print(f"ok thanks for your purchase ")
+
+
